@@ -1,0 +1,17 @@
+h2{
+    color: rgb(0, 0, 153);
+}
+
+#content {
+    font-family: sans-serif;
+    padding: 20px;
+    border-style: groove;
+    border-radius: 15px;
+    box-shadow: 0 0 30px 0 black;
+}
+
+p {
+    font-size: 24px;
+    font-style: italic;
+    color: #333;
+}
